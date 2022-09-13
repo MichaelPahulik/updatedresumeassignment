@@ -1,0 +1,19 @@
+img{
+    width: 25%;
+    height: auto;
+}
+#git{
+    color: red;
+}
+body{
+    color: green;
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    position: absolute;
+    left: 30px;
+    border: 5px solid blue;
+}
+header{
+    text-shadow: blue;
+}
